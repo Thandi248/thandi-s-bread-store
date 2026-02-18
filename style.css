@@ -1,0 +1,63 @@
+/*Reset default browser spacing*/
+body{
+
+     margin: ;0
+     font-family:Arial,sans-serif;
+     background-colour:#f4f4f4;
+}
+
+/* Header */
+header{
+      background-colour:#2c3e50;
+      colour:white
+      padding:20px;
+      text-alignment:center;
+}
+
+/*Navigation*/
+nav{
+    
+     background-colour
+     padding:10px
+     text alignment:center
+}
+
+nav a {
+      colour:white
+      text-decoration:none;
+      margin: 0 15px;
+      font weight: bold;
+}
+   
+
+nav a:hover{
+   text-decoration: underline;
+}
+
+/*Main content*/  
+main{
+  padding: 20px;
+}
+
+/*sections*/
+section{
+      background-colour: white;
+      padding: 15px;
+      margin-bottom:20px;
+      border-radius: 5px;
+}
+/*Productions*/
+.product {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-top: 10px;
+      border-radius: 5px;
+}
+
+/*Footer*/
+footer {
+   background-colour: #2c3e50;
+   colour: white;
+   text-align: center;
+   padding:  10px;
+}
